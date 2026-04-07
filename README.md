@@ -99,8 +99,3 @@ h2 ping h3
 
 The project demonstrates SDN capabilities such as centralized control, traffic monitoring, and network security using programmable controllers.
 
----
-
-## Author
-
-Karthik
